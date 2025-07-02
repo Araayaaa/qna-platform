@@ -82,7 +82,7 @@ String password = ""; // atau isi sesuai password MySQL kamu
 
 ## 👨‍💻 Kontributor
 
-- Araya ✨
+- Derangga Aray Abimanyu
 
 ---
 
